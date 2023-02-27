@@ -1,0 +1,40 @@
+body{
+    background-color: #ffddd2;
+    padding-bottom: 25vh;
+    width: 180vh;
+}
+.home_page{
+    font-style: italic;
+     text-decoration: none; 
+}
+.about_me{
+    font-style: italic;
+    text-decoration: none;
+    margin-left: 20px;
+    margin: 14px;
+}
+.contact_me{
+    font-style: italic;
+    text-decoration: none;
+    margin-left: 20px
+}
+
+
+h1 {
+    color:#582f0e; 
+    font-weight: bold;
+}
+p{
+    color:#582f0e;
+    font-style: italic;
+}
+*{
+    margin: none;
+    padding: none;
+}
+.table1{
+    width: 110%;       
+}
+nav{
+    margin-left: 200px;
+}
